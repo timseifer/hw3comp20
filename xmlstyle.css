@@ -1,0 +1,19 @@
+cover { 
+	color: white; 
+	background-color : gray; 
+	width: 100%; 
+} 
+song, songtitle, musicgenre, songrelease, artists, title{ 
+	display : block; 
+} 
+song {
+	padding-left: 20%;
+	border-bottom: 1px solid #000000;
+}
+title {
+	border-bottom: 1px solid #000000;
+}
+title {
+	font-size: 30px;
+	text-align: center;
+}
